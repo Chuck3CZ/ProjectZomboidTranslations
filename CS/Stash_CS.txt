@@ -1,4 +1,4 @@
-Stash_EN = {
+Stash_CS = {
     Stash_AnnotedMap = "Vyznačená mapa",
 
     Stash_LVMap1_Text1 = "mrtvý šílený týpek s pistolemi",
